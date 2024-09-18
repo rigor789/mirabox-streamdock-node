@@ -17,6 +17,8 @@ This is just an experiment, and possibly has some bugs, and potential for improv
 - set boot image
 - receive key presses
 
+> **Note:** Only tested on **MiraBox 293**.
+
 ## API
 
 ```ts
