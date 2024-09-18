@@ -1,0 +1,23 @@
+{
+  "name": "mirabox-streamdock",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx --watch src/index.ts",
+    "start": "tsx src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.5",
+    "@types/w3c-web-usb": "^1.0.10",
+    "tsx": "^4.19.1",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "jimp": "^1.6.0",
+    "usb": "^2.14.0"
+  },
+  "prettier": {
+    "printWidth": 120
+  }
+}
