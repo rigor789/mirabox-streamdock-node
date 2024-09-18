@@ -47,3 +47,13 @@ while (true) {
   console.log("Key", keyId, "state", state);
 }
 ```
+
+See [Main Demo](./src/index.ts) for a concrete example.
+
+## Run the repo
+
+1. clone
+1. `npm install`
+1. `npm start`
+
+> **Note**: on macos, I need to run `sudo npm start` to be able to access the usb HID device.
