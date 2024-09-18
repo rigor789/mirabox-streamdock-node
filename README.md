@@ -2,6 +2,8 @@
 
 The MiraBox StreamDock has semi-oss drivers that have the USB HID logic inside a pre-compiled library. Out of curiousity, I reverse engineered the USB packets and wrote this demo to show how one might control the device directly without the official drivers.
 
+![MiraBox StreamDock running this demo](https://github.com/user-attachments/assets/f2c56dfb-0cb7-40cc-9816-999c73a06d31)
+
 This is just an experiment, and possibly has some bugs, and potential for improvements.
 
 ## Supported Functions
